@@ -1,0 +1,22 @@
+:root{
+    --cor-texto: #FAEBD7;
+
+}
+
+body{
+    background-color: #000000;
+}
+
+.paragrafo{
+    color: var(--cor-texto);
+    font-family: 'Skranji';
+    text-align: center;
+    font-size: 30px;
+}
+
+.texto{
+    color: var(--cor-texto);
+    font-family: 'Skranji';
+    text-align: center;
+    font-size: 20px;
+}
